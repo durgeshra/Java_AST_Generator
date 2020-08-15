@@ -1,4 +1,4 @@
-# Java_AST_Generator
+# AST Generator for Java
 
 Please see the [report](https://github.com/durgeshra/Java_AST_Generator/blob/master/report.pdf) for more details.
 
